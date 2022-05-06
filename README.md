@@ -10,7 +10,8 @@ Purpose: A collection of Cardano development work needed, based on a fundamental
 
 
 ## Table of Contents
-** fill in **
+* [2035 Vision Lite](https://github.com/ccgarant/ada-dev-bladerunners-2035#2035-vision-lite)
+* [Dev Tools](https://github.com/ccgarant/ada-dev-bladerunners-2035/edit/main/README.md#dev-tools)
 
 ---------------------------
 
