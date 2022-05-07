@@ -11,7 +11,12 @@ Purpose: A collection of Cardano development work needed, based on a fundamental
 
 ## Table of Contents
 * [2035 Vision Lite](https://github.com/ccgarant/ada-dev-bladerunners-2035#2035-vision-lite)
+
+Present Day Ground Zero 2022
 * [Dev Tools](https://github.com/ccgarant/ada-dev-bladerunners-2035/edit/main/README.md#dev-tools)
+
+Future Ideas & Work Needed
+* See future_vision_notes folder (maybe restructure?)
 
 ---------------------------
 
@@ -20,60 +25,42 @@ The year is 2035.  Cardano is the world's largest open-source Financial Operatin
 
 
 # Present Day Ground Zero 2022
+The following is a list of tools and projects that are fundationally important for Cardano's near term success.
 
-The following is a list of tools and projects that are fundationally important for Cardano's near term success. 
+For future vision work, see future_vision_notes folder.
 
 ---------------------------
 ## Dev Tools 
-
-### Level 3 heading reserved for topics...
 
 #### Oura Project 
 * Oura is an open-source tool for the Cardano blockchain ecosystem that connects on-chain data with stream-processing infrastructure (Kafka, Elasticsearch, FaaS)
 https://github.com/txpipe/oura
 https://twitter.com/Oura_project
-*** Look at https://twitter.com/Oura_project/following 
-
-
+https://twitter.com/Oura_project/following 
 
 #### Txpipe
 * https://txpipe.io/
 * Open-source tools and infrastructure for blockchain developers. We focus on integrating on-chain data with off-chain infrastructure.
 …
 
-
 #### Freeloaderz
-… 
+Freeloaderz DAO LLC is a Coalition of Cardano stake pools leveraging our skills for Network Decentralization Join https://discord.gg/rP4PdV8jRY
 
 ---------------------------
 ## DAOs 
 
-Freeloaderz DAO LLC is a Coalition of Cardano stake pools leveraging our skills for Network Decentralization Join https://discord.gg/rP4PdV8jRY
 Ergo DAO toolkit being built by Paidaea, funded by ErgoPad
 ErgoPad, Discovering Projects Building on Ergo with their Launchpad
 https://ergopad.io/projects/paideia
-Voting Tools
-Voting Governance Tools based on Utility Tokens need major work, nothing exists
-DripDropz Andrew Westberg and others working on voting tools for utility token governance, basically building it from scratch, as well as others.  Def seems like a work together standardized approach would benefit all.
-Cardano: NerdOut - Governance Snapshots
+
+Voting Tools - Voting Governance Tools based on Utility Tokens need major work, nothing exists
+
+DripDropz Andrew Westberg and others working on voting tools for utility token governance, basically building it from scratch, as well as others.  Def seems like a work together standardized approach would benefit all. Cardano: NerdOut - Governance Snapshots
 
 ---------------------------
-## Commerce
-Built-in Website Wallets and easy integration needed
-Wordpress and common website commerce tools needed
-AdaPay working on plugins, and commerce solutions
-Anything else?
-Until easy integration and people don’t even know they’re using crypto, that’s when mass adoption will happen
-Auto convert % to stablecoin immediately, pay in djed stablecoins, needs work.
-Small business apps needed
-Multisignature for security
-Auto converts % of income into stablecoin 90%
-Auto stakes all income
-Auto uses DeFi like Genius Yeild to work with any savings capital
-Auto employee paycheck distro
-Store utility tokens? Staking benefits? Employee incentive lockup. Neighborhood employee incentive lookups.
-Stake pool to exclusively benefit neighborhood small business ada alliance.  Neighborhood and employee staking lock up for discount prices. Win-win.
-Auto generate tax forms csv files. (need to get rid of egregious laws of taxing on small payments, almost non-workable for small business).
+## Commerce 
+
+
 
 
 
@@ -82,20 +69,10 @@ Auto generate tax forms csv files. (need to get rid of egregious laws of taxing 
 ## Companies 
 Noteable companies doing the best building.
 
-MLabs
-
-Five Binaries 
-
-DC Spark
-https://www.dcspark.io/
-Team 
-Nico
-Seba
-…  
-Emmanuel 
-https://twitter.com/sir_mimok
-Clark Alesna - https://twitter.com/clarkalesna
-
+- MLabs
+- Five Binaries 
+- [DC Spark](https://www.dcspark.io/)
+    - Team: Nico, Seba,...Emmanuel 
 
 
 Vacuum Labs 
@@ -124,11 +101,12 @@ They are building open-source, which is great cardano ethos. https://github.com/
 Maladex
 https://twitter.com/ngnlong
 
+
 ---------------------------
 ## People (including Twitter) 
 Noteworthy great builders, visionaries, and hard workers
 
-Ben Hart 
+- Ben Hart (MLabs)
 MLabs
 Jarek Hirniak 
 Maladax, 
@@ -138,14 +116,13 @@ Nico Arqueros
 CEO, DC Spark 
 https://twitter.com/NicoArqueros
 
+https://twitter.com/sir_mimok
+Clark Alesna - https://twitter.com/clarkalesna
 
-Marek Mahut	
-StakeNuts Pool 
+- Marek Mahut (NUTS Pool)
+- [Alessandro Berry](https://twitter.com/berry_ales
+), Nami, SpaceBudz
 
-
-Alessandro Berry
-Nami, SpaceBudz
-https://twitter.com/berry_ales
 
 
 …
@@ -166,4 +143,73 @@ Andrew Westburg
 https://twitter.com/amw7
 BCSH (Blue Cheese Stake House), ITN, Phyrhose, Bare Metal SPO.
 Very respected dev and SPO, working on DripDropz, CTO of ProjectNEWM
+
+
+# Social Media
+Maybe break into new folder section?
+
+---------------------------
+## Youtube Channels (Developer Focused) 
+
+### Cardano 
+
+- [PG: Blockchain (Cardano & Ergo) + DeepLearning](https://www.youtube.com/c/PGBlockchainCardanoErgoDeepLearning/about)
+    > I create educational videos about Blockchain + AI with Cardano,SingularityNet, Nunet and also Ergo, cryptography & advanced concepts ZeroKnowledge Proof, DeepchainAda prj, Haskell basics
+
+- [Andrew Westburg [BCSH]](https://www.youtube.com/c/AndrewWestberg/featured)
+    > Cardano, where we break it down but we don't dumb it down
+
+
+### Ergo
+
+- [DeCo Education](https://www.youtube.com/channel/UCyOIxD7YSHN5QwLIulOWrew/about)
+    > DeCo: Decentralized Collaboration
+DeCo Education provides an interactive educational course to community members of Ergo Blockchain to prepare them for DApp development on the Ergo Blockchain. We aim to build and establish a community of learners and contributors as a learning hub within the Ergo ecosystem. 
+
+
+---------------------------
+## Youtube Channels (Community Focused) 
+
+### Cardano 
+
+- [Army of Spies](https://www.youtube.com/c/ArmyofSpies/about)
+    > An almost daily rundown of all the news and rumors in the Cardano Ecosystem!
+
+- [Learn Cardano | Pete](https://www.youtube.com/c/LearnCardano/about)
+     > Learn Cardano is all about breaking down the technical aspects of Cardano so that anyone can understand.
+
+- [Big Pey | BLOOM Pool | Peyton](https://www.youtube.com/c/bigpey/about)
+    > This channel was made to spread education about Cardano,  WEB3, and cryptocurrency to the masses. Creator of Bloom, and Mycelial Gallery.
+
+- [Kaizen Crypto | KAIZN Pool | Pretesh](https://www.youtube.com/c/KaizenCrypto/about)
+    > We are passionate about cryptocurrency. Our mission is to help our viewers along their journey through the rabbit hole of Bitcoin and blockchain technology.
+
+- [Cardano Live | DIGI Pool | Rich McCracken](https://www.youtube.com/c/CardanoLivePodcast/about)
+    > Cardano Live is a podcast based on the Cardano cryptocurrency ecosystem that breaks down new and complex information for viewers new to Cardano and people who are curious to hear from the experts.
+
+
+---------------------------
+## Youtube Channels (Macro/Price/Community Focused) 
+
+### Cardano
+
+- [Crypto Capital Venture](https://www.youtube.com/c/CryptoCapitalVenture/about)
+    > Cardano focused price, bitcoin, macro, and some others
+
+- [The Cardano Guy](https://www.youtube.com/channel/UCx5DVyjWl2r-5f_uqAXpSzg/about)
+    > Simple Cardano Content for the Cardano Community to Upgrade Your Cardano Knowledge
+    > [@MostafaCoin](https://twitter.com/MostafaCoin)
+    > [@The_Cardano_Guy](https://twitter.com/The_Cardano_Guy)
+
+
+### General Macro
+
+- [Into The Cryptoverse | Benjamin Cowen](https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg/about)
+    > You have just jumped into the cryptoverse, which provides high quality cryptocurrency education to those who want to dive deeper into the metrics that are driving the market.
+
+- [DataDash](https://www.youtube.com/c/DataDash/about)
+    > DataDash is a one-stop shop for all things related to cryptocurrencies and financial markets.
+    > Usually covers bitcoin and ethereum but good macro and balanced views.
+
+
 
