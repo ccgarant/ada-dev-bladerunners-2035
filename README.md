@@ -52,6 +52,21 @@ A collection of developer tools and building communities.
 * https://www.freeloaderz.io/ 
 * https://discord.gg/rP4PdV8jRY
 
+
+#### [Viper Stake Pool Cardano Tooling](https://gitlab.com/viper-staking)
+
+* The Viper Staking team operates the high-performance, cloud-based, VIPER stake pool on the Cardano blockchain. Join our telegram channel for updates and to chat with the team: https://t.me/ViperTools
+
+* Project Catalyst Fund8 Winning Proposals [Tweet](https://twitter.com/viperstakepool/status/1525126529189040130?s=20&t=rrl95L5habdpTWjuDth7ow):
+
+* [Cardano-Tools Python Library](https://gitlab.com/viper-staking/cardano-tools)
+    - A python module for interfacing with the Cardano blockchain.
+
+* [Cardano development library in C++](https://gitlab.com/viper-staking/cardano-plus-plus)
+    - A blazingly fast library of Cardano blockchain tools written in modern C++.
+
+
+
 #### Fund8 Winners 
 Follow up on the following winners:
 
