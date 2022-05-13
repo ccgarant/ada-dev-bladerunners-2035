@@ -1,9 +1,11 @@
 # Ada Dev Bladerunners 2035
-Purpose: A collection of Cardano development work needed, based on a fundamental, long term, forward looking 2035 vision.  The future starts here, with BUIDL.
+A curated collection of Cardano development work needed, based on a fundamental, long term, forward looking community 2035 vision.  
+
+The future starts here, with BUIDL.
 
 **Current Authors:**
-- Garry Golden
 - Christophe Garant
+- Garry Golden
 
 **Current Contributors:**
 - TBD
@@ -11,23 +13,25 @@ Purpose: A collection of Cardano development work needed, based on a fundamental
 
 ## Table of Contents
 * [2035 Vision Lite](https://github.com/ccgarant/ada-dev-bladerunners-2035#2035-vision-lite)
+* [Present Day BUIDL](https://github.com/ccgarant/ada-dev-bladerunners-2035#present-day-ground-zero-2022)
+* [Dev Tools](https://github.com/ccgarant/ada-dev-bladerunners-2035#dev-tools)
+* [DAOs](https://github.com/ccgarant/ada-dev-bladerunners-2035#daos)
+* [Commerce](https://github.com/ccgarant/ada-dev-bladerunners-2035#companies)
+* [Projects](https://github.com/ccgarant/ada-dev-bladerunners-2035#projects)
+* [DeFi](https://github.com/ccgarant/ada-dev-bladerunners-2035#defi)
+* [Builders](https://github.com/ccgarant/ada-dev-bladerunners-2035#defi)
 
-Present Day Ground Zero 2022
-* [Dev Tools](https://github.com/ccgarant/ada-dev-bladerunners-2035/edit/main/README.md#dev-tools)
 
-Future Ideas & Work Needed
-* See future_vision_notes folder (maybe restructure?)
-
----------------------------
-
-## 2035 Vision Lite
+# 2035 Vision Lite
 The year is 2035.  Cardano is the world's largest open-source Financial Operating & Governance System (FOS, GS).  Ada, the native token, is a global decentralized reserve asset.  The Cardano Network is fully decentralized and governed for the people, by the people.
 
+Have present or future ideas, let us know! Create a pull request in:
+- [Future Vision Notes](https://github.com/ccgarant/ada-dev-bladerunners-2035/tree/main/future_vision_notes)
+- [Ada Bladerunner 2035 Future Vision](https://github.com/ccgarant/ada-dev-bladerunners-2035/blob/main/future_vision_notes/future_vision_2035.md)
 
-# Present Day Ground Zero 2022
-The following is a list of tools and projects that are fundationally important for Cardano's near term success.
 
-For future vision work, see future_vision_notes folder.
+# Present Day BUIDL
+Looking to contribute open-source? Start here with this curated list of important projects and tools.
 
 ---------------------------
 ## Dev Tools 
@@ -48,24 +52,52 @@ A collection of developer tools and building communities.
 * https://www.freeloaderz.io/ 
 * https://discord.gg/rP4PdV8jRY
 
+#### Fund8 Winners 
+Follow up on the following winners:
+
+##### Open Source Development
+
+- Plutarch: typed eDSL in Haskell 
+- PHP SDK for Blockfrost.io
+- Cardano Rust SDK Babbage 
+- Reference Inputs SDK ▶ MLabs+Orcfax
+- db-sync replacement in Oura
+
+
+---------------------------
+## Open Standards & Interoperability
+?
+
+
+
+
 ---------------------------
 ## DAOs 
+Work needed
 
-#### Work needed
-Ergo DAO toolkit being built by Paidaea, funded by ErgoPad
-ErgoPad, Discovering Projects Building on Ergo with their Launchpad
+LaunchPads
+
+[ErgoPad](https://twitter.com/ErgoPadOfficial)
+- Discovering Projects Building on Ergo with their Launchpad
 https://ergopad.io/projects/paideia
-https://twitter.com/PaideiaDAO 
+- Ergo DAO toolkit being built by [Paidaea](https://twitter.com/PaideiaDAO), funded by ErgoPad
+
 
 Voting Tools - Voting Governance Tools based on Utility Tokens need major work, nothing exists
 
-DripDropz Andrew Westberg and others working on voting tools for utility token governance, basically building it from scratch, as well as others.  Def seems like a work together standardized approach would benefit all. Cardano: NerdOut - Governance Snapshots
+[DripDropz Voting](https://twitter.com/DripDropz_io)
+- Latheesan and Andrew Westberg and others working on voting tools for utility token governance, basically building it from scratch, as well as others.  Def seems like a work together standardized approach would benefit all. 
+- [Youtube:Cardano: NerdOut - Governance Snapshots](https://youtu.be/NI3_VeLwyxc)
 
 ---------------------------
 ## Commerce 
 
+#### [adabox auth-server](https://github.com/adabox-aio)
+- Login with ada wallet, adabox.io Authentication Manager, 
 
+AdaPay & Plugins
 
+More things needed here!
 
 
 
@@ -91,15 +123,18 @@ Noteworthy, impactful projects, that open source contribution would help acceler
 They are building open-source, which is great cardano ethos. https://github.com/projectNEWM/
 
 ---------------------------
-## DeFi Teams 
+## DeFi
 
-- [Maladex]()
+### Teams
+- [Maladex](https://twitter.com/CardanoMaladex)
 - [Liqwid Finance](https://twitter.com/liqwidfinance)
 
 
 ---------------------------
-## People
+## Builders
 Noteworthy great builders, visionaries, and hard workers.
+
+### Cardano
 
 - [Sebastien Guillemot](https://twitter.com/SebastienGllmt), CTO and co-founder dc_Spark
     - Emergo, Cardano, Flint wallet, milkomeda
@@ -123,7 +158,15 @@ Noteworthy great builders, visionaries, and hard workers.
 - [Long Nguyen](https://twitter.com/ngnlong), minswap founder and lead engr
 - [matiwinnetou](https://twitter.com/matiwinnetou), CRFA Stake Pool, Cardano Foundation
 - [KtorZ](https://twitter.com/_KtorZ_), Cardano Foundation open protocol effort, CIPs
+- [Dudi Edri](https://twitter.com/IsraeliCardano)
+    - Israeli Cardano Community Founder | ISR Staking Pool Operator | @MusicBoxCNFTs | Co-Founder | Java Developer | First Cohort Plutus Pioneer | CIP-8 | CIP-30
+- [Latheesan](https://twitter.com/LatheesanK)
+    - Co-Founder/CTO of [Tokhun](http://Tokhun.io) #NFT & FT Marketplace on #Cardanoand CTO of [dripdropz](https://dripdropz.io/?ref=71YG38m1)
 
+### Ergo
+
+- [Marty](https://twitter.com/esot321c), ErgoPad, Crypto enthusiast, OG
+- [Glasgow](https://twitter.com/AGlasgow12), Redid Ergo Foundations website frontend. Foundation Member @ergoplatformorg, Technical Director @ChangeDisabled
 
 ---------------------------
 ## Gaming & Misc

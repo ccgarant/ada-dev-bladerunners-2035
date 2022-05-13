@@ -1,16 +1,18 @@
-# Future Vision Notes
+# Future Vision Note & Ideas
 A collection of future vision notes, tools, and use cases.  
 
 Use the vision to ideate and derive high level Concept of Operations (ConOps), from which more detail Tool needs and High Level Requirements (HLR) can be formulated.
 
 ## What's Needed?
+Use the following format below as a guide:
 * Vision
 * Concept of Operations / Use Cases
     * Provide use case or mission high level details here.  Provide a step by step high level walk thru of the idea.
-* Tools / Projects Needed
-    * From the ConOps and Use Cases, what tools are needed to meet these goals?
 * High Level Requirements
     * What requirements are needed in the tools and projects
+* Tools / Projects Needed
+    * From the ConOps and Use Cases, what tools are needed to meet these goals?
+
 
 ---------------------------
 ### One-Click DAO Tools
@@ -24,6 +26,34 @@ Use the vision to ideate and derive high level Concept of Operations (ConOps), f
 - MLabs
 - Buy a collection of coins? 
 - needs regulator clarity and framework
+
+---------------------------
+### Full Node App Store
+Vision: An at home (or store) peer-to-peer (p2p) full node, server, and app store
+- Support decentralization, and be your own bank, by running a full node
+- Full node with peer-to-peer (p2p) checking and auditing of the blockchain 24/7.
+- Faster and private transactions, with layer 2 options
+- Full Cardano Ergo App Store, with some sort of protection rating ensurance.
+- Inspiration from [Umbrel](https://twitter.com/umbrel)
+    - Run a personal server with a #bitcoin and #lightning⚡️ node in your home and self-host open source apps → http://getumbrel.com
+
+ConOps:
+- Prebuilt off the shelf option
+    - Can buy prefabbed and software preloaded "non-dev batteries included option"
+    - plug in and load the blockchain
+    - login thru website to access wallet and app store
+- DIY kit
+    - Buy any raspberry pi or ARM hobbyist controller and commercial off the shelf parts (COTS)
+    - Fun
+     
+
+High Level Requirements:
+- TBD
+- Ideally under $300 DIY
+
+Tools/Projects Needed:
+- TBD
+
 
 ---------------------------
 ### Small Business App
